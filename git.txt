@@ -1,6 +1,6 @@
 DONNEL SIMBAJON
 
-YAAAAAA
+
 SSSSS
 
 AAAAWASD
@@ -8,4 +8,9 @@ AAAAWASD
 
 nadela 
 SSSSS
+<<<<<<< HEAD
 dasd
+=======
+
+hdFsdfsfgdfgdfdfhdfnwpokroqopweokrwopekrpoe
+>>>>>>> 35c2ee69cd4ed04ed1996297e9dc30b20dff39ff
